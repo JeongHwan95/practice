@@ -1,3 +1,4 @@
+-- written by jhwan
 -- goods, member_goods_cart, non_member_retails_cart
 -- non_member_goods_cart, member_act_grade, category
 -- chatroom, standard_value
